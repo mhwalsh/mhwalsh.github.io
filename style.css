@@ -15,9 +15,15 @@ div {
   border-radius: 25px;
   
   margin: 25px;
+  
+  /*text-align: center;*/
 }
 
 p {
   background-color: LightGreen;
   width: 50%;
+}
+
+.image {
+    text-align: center;
 }
