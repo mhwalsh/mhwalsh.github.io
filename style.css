@@ -12,6 +12,12 @@ div {
   padding: 30px;
   
   border: 5px solid blue;
+  border-radius: 25px;
   
   margin: 25px;
+}
+
+p {
+  background-color: LightGreen;
+  width: 50%;
 }
